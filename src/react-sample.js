@@ -1,8 +1,4 @@
-
-
-‹
-ˆ
-…ùimport React from 'react'
+import React from 'react'
 import PropTypes from 'prop-types'
 
 export class App extends React.Component {
@@ -46,4 +42,4 @@ const Calendar = props => {
   const year = props.year
   return <table>{'ã‚«ãƒ¬ãƒ³ãƒ€ãƒ¼ã®ä¸­èº«:' + year + 'æœˆ'}</table>
 }
-*¯
+*ï¿½

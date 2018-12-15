@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import TodoApp from './App';
-import MarkdownEditor from './MarkDown';
+import TodoApp from './markdown/App';
+import MarkdownEditor from './markdown/MarkDown';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(<TodoApp />, document.getElementById('root'));
